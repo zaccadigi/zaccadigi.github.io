@@ -1,4 +1,4 @@
-/* Generated on: Fri Sep 16 2022 15:18:59 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Sep 19 2022 13:20:12 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1549,10 +1549,7 @@ h1 {
 }
 
 .genre_div.top {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   margin-top: 2em;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
